@@ -1,0 +1,6 @@
+{
+  "name": "85 - The Everything App",
+  "description": "85 est la super-app mobile-first combinant Messagerie avec cadeaux USDC, Finance avec Kotani Pay et investissements fractionnés, Télécom avec forfaits partagés, et Hub de services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

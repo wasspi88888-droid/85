@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "85 - The Everything App",
+  "short_name": "85",
+  "description": "85 réunit Messagerie chiffrée avec cadeaux USDC, Finance, Télécom et Services dans une super-app.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAFAFA",
+  "theme_color": "#FF6B35",
+  "categories": ["finance", "communication", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
